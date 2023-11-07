@@ -1,0 +1,24 @@
+#skills{
+    background-color: aqua;
+    font-style: italic;
+    font: 200;
+}
+#veg{
+    background-color: aliceblue;
+    font:100
+}
+#fruits{
+    background-color: turquoise;
+    font-style: oblique;
+}
+.btn{
+    background-color: aquamarine;
+    border: none;
+    padding: 15px 30px;
+    color:black;
+    font-size:20px;
+}
+body{
+    background-color: #fdeb82
+
+}
